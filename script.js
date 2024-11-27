@@ -68,7 +68,7 @@ $(document).ready(function(){
       });
   
 
-s
+
 
 document.addEventListener("DOMContentLoaded", function() {
    
