@@ -54,7 +54,7 @@ $(document).ready(function(){
         
         // Trigger file download
         const link = document.createElement('a');
-        link.href = 'Pdf/66979e932689d03585f8168a.pdf'; 
+        link.href = 'Pdf/saurav.pdf';  
         link.download = 'SauravCv.pdf'; 
         link.click();
   
