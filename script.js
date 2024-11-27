@@ -49,8 +49,8 @@ $(document).ready(function(){
     });
 
 
-    document.getElementById('downloadCV').addEventListener('click', function (event) {
-        event.preventDefault(); // Prevent the default anchor behavior
+  $('#downloadCV').on('click', function (event) {
+        event.preventDefault(); 
         
         // Trigger file download
         const link = document.createElement('a');
